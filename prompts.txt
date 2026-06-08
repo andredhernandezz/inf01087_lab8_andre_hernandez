@@ -1,0 +1,19 @@
+PROMPTS UTILIZADOS:
+“explique o conceito de Software “
+
+“Explique o conceito de Software, no contexto de uma disciplina de Introdução à Ciência da Computação, voltando-se para estudantes iniciantes na computação. Quero a resposta no formato de um resumo. “
+
+“Crie um programa que calcule o IMC de uma pessoa conforme dados da OMS. A entrada é caracterizada pelo sexo do indivíduo, bem como altura e peso.”
+
+“crie um programa em C que calcule o Indice de Massa Corporal (IMC) de uma pessoa utilizando os criterios de classificacao da OMS.
+O programa deve:
+- Solicitar ao usuario o sexo (M ou m para masculino ou F ou f para feminino, o peso em quilogramas e a altura em metros)
+- Calcular o IMC corretamente
+- Exibir o valor do IMC com duas casas decimais
+- Realizar tratamento de erros para impedir pesos ou alturas menores ou igual a 0 e para validar o sexo informado
+- Não utilizar bibliotecas externa além das bibliotecas padrão da linguagem C
+Nivel da explicacao: Detalhado. Explique o funcionamento do algoritmo e das estruturas utilizadas
+Restrições de implementacao:
+utilizar variaveis do tipo float ou double
+utilizar estruturas condicionais (if/else) para classificacao
+nao utilizar vetores, arquivos ou alocacao dinamica de memoria.”
